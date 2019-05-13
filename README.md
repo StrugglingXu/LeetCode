@@ -4,7 +4,7 @@
 
 ## 该LeetCode内容主要包含两部分：
 
-- [LeetCode 顺序刷题参考](LeetCode 顺序刷题参考)
+- LeetCode 顺序刷题参考
 - 答案集题型分类汇总
 
 ------
