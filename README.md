@@ -1,5 +1,3 @@
-# LeetCode
-Awesome LeetCode Summary of topics
 # LeetCode-StrugglingXu
 
 ------
